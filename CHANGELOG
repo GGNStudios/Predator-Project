@@ -11,3 +11,21 @@ This Document is created to follow the improvements and show new downloads as th
 - https://onedrive.live.com/redir?resid=1699A1654C794A94!13906&authkey=!AO6HuJpwvKJJSpg&ithint=file%2c002
 
 # # # Thanks in advance for the contribution to the project! # # #
+
+# # 25-11-2015 [Bug Fixing, Adding new features and Terrain changes: Predator.cry Beta v0.2]
+# # # Fixed
+- Vehicle allowance on the tutorial
+- Quicksaves between major travelling and action
+- Out of bounds from the tutorial and village
+- Proxys on objects, to avoid freefalls and unexpected physics behabiour
+
+# # # Changed
+- Jungle transition, after the second Predator cameo there is a swamp and a barricade instead of plain surface
+- Some water effects on waterfalls
+- AI behabiour on the village, from easy to hard depending on a bullet per die percentage
+
+# # # Added
+- Water materials
+- New barricade Entities on the Database
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
